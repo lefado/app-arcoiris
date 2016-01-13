@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 12, 2016, 4:00:24 PM
+    Author     : mason
+*/
+
+
+
+#contact_email h2{
+    
+  text-align: center;
+}
+
+
+
+#contactform {
+  height: 215px;
+}
+
+#contactform .right {
+  float: right;
+}
+
+#contactform input,
+#contactform textarea {
+  margin-bottom: 14px;
+  width: 100%;
+  outline: none;
+  border: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 11px;
+}
+
+#contactform input {
+  padding-left: 15px;
+  height: 44px;
+  border-radius: 0;
+  border: 2px #f8f8f8 solid;
+}
+
+#contactform textarea {
+  padding: 15px;
+  height: 218px;
+  border-radius: 0;
+  border: 2px #f8f8f8 solid;
+  resize: none;
+}
+
+#contactform .btn {
+  width: 100%;
+  height: 50px;
+  border-radius: 0;
+  border: 1px solid #f8f8f8;
+  background: #f8f8f8;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+#contactform .btn:hover {
+  background: #cccccc;
+}
+
